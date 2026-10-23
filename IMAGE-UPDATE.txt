@@ -1,0 +1,13 @@
+DRAFT CLUB 2.1 — IMAGE UPDATE
+
+This package contains all runtime files and the assets folder. Upload the extracted files AND assets folder into the repository root beside index.html. Do not upload the ZIP file itself. Preserve the assets/images folder structure.
+
+Included: all previous V2 changes; 34 AI-generated unofficial Pokemon portraits; 16 AI-generated category illustrations; 13 licensed photographs used for 111 category-specific candidate entries; offline image cache; visible artwork labels; credits page; local fallback art.
+
+Not included: a unique specific image for every candidate, official album covers, official Pokemon artwork, film posters, or individual portraits for every game/anime/movie character. These entries use clearly labeled category illustrations. Artist portraits are not album covers.
+
+Nine automated tests pass, including 20,000 simulated matches and image/cache manifest validation. The final browser rerun for this image update was interrupted and is not counted as passed. Earlier V2 browser tests passed. Physical iPhone Safari has not been verified.
+
+After uploading, allow GitHub Pages to finish. Close old game windows and reopen. Accept Update Available outside a match if shown. Wait for OFFLINE READY before airplane-mode use. The original older release can require closing all tabs/app windows once before the waiting worker takes control.
+
+Artwork licenses and source credits: artwork-credits.html.
